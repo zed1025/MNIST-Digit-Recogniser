@@ -32,3 +32,6 @@ MNIST Digit Recogniser using 2 Layer NN and CNN
   
   Optimizer used: adam
   
+  
+  # Notes
+  - See [this](https://gist.github.com/stared/dfb4dfaf6d9a8501cd1cc8b8cb806d2e) for plotting loss.
